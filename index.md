@@ -11,12 +11,12 @@ Writing with the Archives is a free mini-workshop series that shows users how to
 <br> 
 
 #### Agknowledgements ❤️
-[Sarah Barlow-Ochshorn] (https://www.linkedin.com/in/sarah-barlow-ochshorn/) (she/her) created this course during her time as a Processing and Pedagogy Fellow in Spring, 2022 at the [Barnard College Archives and Special Collections] (https://archives.barnard.edu/). Many thanks to: 
+[Sarah Barlow-Ochshorn](https://www.linkedin.com/in/sarah-barlow-ochshorn/) (she/her) created this course during her time as a Processing and Pedagogy Fellow in Spring, 2022 at the [Barnard College Archives and Special Collections](https://archives.barnard.edu/). Many thanks to: 
 
 * The Barnard Archives staff
 * The Barnard Library / Milstein Teaching and Learning Center staff and Creative Writing faculty who contributed their knowledge and support in thinking through the content of this course 
 * Chris Diaz, the teacher of [Library Juice Academy](https://libraryjuiceacademy.com/)'s Git and GitHub for Libraries Course, which made this website possible
-* This course was made using [Course-in-a-Box] (https://course-in-a-box.p2pu.org/). Thank you [P2PU] (https://www.p2pu.org/en/)
+* This course was made using [Course-in-a-Box](https://course-in-a-box.p2pu.org/). Thank you [P2PU](https://www.p2pu.org/en/)
 
 
 <br> 

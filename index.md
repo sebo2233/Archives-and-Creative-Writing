@@ -3,36 +3,20 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+Writing with the Archives is a free mini-workshop series that shows users how to use archival materials for creative writing projects. No prior knowledge of archives or creative writing are is required. These modules could be done independently, with a class, as homework assigments, or in any other way you see fit. There are three workshop modules in the series, all linked in the nav bar at the top of the page:
+* **[Setup](/modules/what-is-an-archive-?)** - Want to know what an archive even is? Or how it might relate to creative writing? Start off with this module
+* **[Content](/modules/writing-with-digital-archives)** -  Do some generative exercises using digital archives
+* **[Customize](/modules/archives-creative-writing)** - Learn about how to take this work further by using personal or family archives, visits to in-person archives, or creating your own archive!
 
 <br> 
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+#### Agknowledgements ❤️
+[Sarah Barlow-Ochshorn] (https://www.linkedin.com/in/sarah-barlow-ochshorn/) (she/her) created this course during her time as a Processing and Pedagogy Fellow in Spring, 2022 at the [Barnard College Archives and Special Collections] (https://archives.barnard.edu/). Many thanks to: 
 
-* [We Are AI](https://dataresponsibly.github.io/we-are-ai/) by Center for Responsible AI
-* [How to Talk about Race](https://how-to-talk-about-race.p2pu.org/) by Amrita Patel and Denise LaForce
-* [Leveraging Learning for Life](https://leveraging-learning.p2pu.org/) by College Unbound
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) by P2PU
-* [Queer Cinema for High School](https://queercinema.net/) by Sarah Schrag
+* The Barnard Archives staff
+* The Barnard Library / Milstein Teaching and Learning Center staff and Creative Writing faculty who contributed their knowledge and support in thinking through the content of this course 
+* Chris Diaz, the teacher of [Library Juice Academy](https://libraryjuiceacademy.com/)'s Git and GitHub for Libraries Course, which made this website possible
+* This course was made using [Course-in-a-Box] (https://course-in-a-box.p2pu.org/). Thank you [P2PU] (https://www.p2pu.org/en/)
+
 
 <br> 
-
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
-
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
-
-<br> 
-
-#### About Course-in-a-Box
-
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
-
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.

@@ -20,3 +20,6 @@ Writing with the Archives is a free mini-workshop series that shows users how to
 
 
 <br> 
+
+© 2022. This work is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
+

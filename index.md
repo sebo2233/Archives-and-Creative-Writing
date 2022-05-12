@@ -4,9 +4,9 @@ published: true
 ---
 
 Writing with the Archives is a free mini-workshop series that shows users how to use archival materials for creative writing projects. No prior knowledge of archives or creative writing are is required. These modules could be done independently, with a class, as homework assigments, or in any other way you see fit. There are three workshop modules in the series, all linked in the nav bar at the top of the page:
-* **[What is an Archive?](/modules/what-is-an-archive)** - Want to know what an archive even is? Or how it might relate to creative writing? Start off with this module
-* **[Writing with The (Digital) Archives](/modules/writing-with-the-digital-archives)** -  Do some generative exercises using digital archives
-* **[Moving Forward with Archives and Creative Writing](/modules/moving-forward-with-archives-and-creative-writing)** - Learn about how to take this work further by using personal or family archives, visits to in-person archives, or creating your own archive!
+* **[What is an Archive?](/modules/what%20is%20an%20archive)** - Want to know what an archive even is? Or how it might relate to creative writing? Start off with this module
+* **[Writing with The (Digital) Archives](/modules/writing%20with%20the%20digital%20archives)** -  Do some generative exercises using digital archives
+* **[Moving Forward with Archives and Creative Writing](/modules/mmoving%20forward%20with%20archives%20and%20creative%20writing)** - Learn about how to take this work further by using personal or family archives, visits to in-person archives, or creating your own archive!
 
 <br> 
 

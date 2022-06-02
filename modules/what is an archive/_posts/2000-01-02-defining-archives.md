@@ -1,7 +1,6 @@
 # What are Archives 
-A variety of definitions for the term archives. Take a look at the [Society of American Archivists' Dictionary of Archives Terminology](https://dictionary.archivists.org/entry/archives.html) for a few examples. A working one for our purposes is as follows:
+A variety of definitions for the term archives. Take a look at the [Society of American Archivists' Dictionary of Archives Terminology](https://dictionary.archivists.org/entry/archives.html) for a few examples. A working one for our purposes comes from [Archival Research at Barnard and Beyond](https://guides.library.barnard.edu/archivalresearch/archives):
 > Archives and archival collections **unique constellations of unpublished records made in the course of normal activities.** Archives are comprised of primary sources, but not all primary sources are archival.
-(https://guides.library.barnard.edu/archivalresearch/archives) 
 
 # Problems with Archives
 - Archives have historically valued Western forms of record keeping over alternative forms of memory work (meeting minutes over oral histories). They have centered institutions, colonial powers, and white, wealthy, cisgender, able-bodied, patriarchal subjects while obscuring, disregarding, and silencing the stories of marginalized peoples.

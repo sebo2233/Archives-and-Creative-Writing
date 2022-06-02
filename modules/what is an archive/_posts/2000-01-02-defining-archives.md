@@ -1,3 +1,6 @@
+---
+title: Defining Archives
+---
 # What are Archives 
 A variety of definitions for the term archives. Take a look at the [Society of American Archivists' Dictionary of Archives Terminology](https://dictionary.archivists.org/entry/archives.html) for a few examples. A working one for our purposes comes from [Archival Research at Barnard and Beyond](https://guides.library.barnard.edu/archivalresearch/archives):
 > Archives and archival collections **unique constellations of unpublished records made in the course of normal activities.** Archives are comprised of primary sources, but not all primary sources are archival.

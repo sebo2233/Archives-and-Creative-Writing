@@ -1,3 +1,6 @@
+---
+title: Writing and Archives
+---
 # Annotation Exercise
 Read one or more of the following excerpts of poetry that have made use of archival materials. Annotate anything that stands out to you, and when you’re done reading write down at least one question you have about the work.
 

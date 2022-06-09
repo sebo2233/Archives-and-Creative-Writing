@@ -6,24 +6,24 @@ Choose one or more of the following categories to explore and use the links belo
 - Family materials
     - When researching family history, make sure to give yourself and your family members grace, as the process may bring up unexpected emotions or information
     - Although this path in no way has to be strict genealogical research, it might be helpful to learn a bit about genealogy: 
-    - [How to Begin Genealogical Research](https://www.archives.gov/riverside/how-to-begin-genealogical-research)
-    - [Start your Genealogy Research](https://www.archives.gov/research/genealogy/start-research) 
-    - [Genealogy and Family History](https://www.usa.gov/genealogy) 
-    - [Conducting a Family History Interview](https://www.americanancestors.org/conducting-family-history-interview)
+        - [How to Begin Genealogical Research](https://www.archives.gov/riverside/how-to-begin-genealogical-research)
+        - [Start your Genealogy Research](https://www.archives.gov/research/genealogy/start-research) 
+        - [Genealogy and Family History](https://www.usa.gov/genealogy) 
+        - [Conducting a Family History Interview](https://www.americanancestors.org/conducting-family-history-interview)
 
 - Local archive/institutional repository
     - What would you like to learn more about in your neighborhood, city, or town? Are there any local institutions, figures, locations, or historical events that relate to your writing interests? 
-    - [Getting Started with Archives Research](https://guides.library.barnard.edu/archivalresearch/gettingstarted) 
-    - [How to Find Archives](https://guides.library.barnard.edu/archivalresearch/findarchives)
-    - [Visiting an Archives](https://www2.archivists.org/usingarchives/visitinganarchives)
-    - [How to be a Supr Researcher (or at Least Fake it)](https://blogs.library.duke.edu/rubenstein/files/2016/04/archives-minizine.pdf) 
-    - [Citations, Copyright, and Publishing](https://guides.library.barnard.edu/archivalresearch/citation) 
+        - [Getting Started with Archives Research](https://guides.library.barnard.edu/archivalresearch/gettingstarted) 
+        - [How to Find Archives](https://guides.library.barnard.edu/archivalresearch/findarchives)
+        - [Visiting an Archives](https://www2.archivists.org/usingarchives/visitinganarchives)
+        - [How to be a Supr Researcher (or at Least Fake it)](https://blogs.library.duke.edu/rubenstein/files/2016/04/archives-minizine.pdf) 
+        - [Citations, Copyright, and Publishing](https://guides.library.barnard.edu/archivalresearch/citation) 
  
 - Creating your own archive
     - Make a list of what you might want to include in your own archive if you haven't already done so
-    - [Your Personal Archiving Project: Where do you Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/) 
-    - [Personal Digital Archiving](https://guides.library.barnard.edu/preserveyourwork/personaldigitalarchiving) 
-    - [Personal Archiving](https://digitalpreservation.gov/personalarchiving/) 
+        - [Your Personal Archiving Project: Where do you Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/) 
+        - [Personal Digital Archiving](https://guides.library.barnard.edu/preserveyourwork/personaldigitalarchiving) 
+        - [Personal Archiving](https://digitalpreservation.gov/personalarchiving/) 
 
 
 # Moving Ahead    

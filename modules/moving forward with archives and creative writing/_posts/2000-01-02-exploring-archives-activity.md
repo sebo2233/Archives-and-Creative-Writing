@@ -21,10 +21,12 @@ Choose one or more of the following categories to explore and use the links belo
  
 - Creating your own archive
     - Make a list of what you might want to include in your own archive if you haven't already done so
-    - [Yuor Personal Archiving Project: Where do you Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/) 
+    - [Your Personal Archiving Project: Where do you Start?](https://blogs.loc.gov/thesignal/2016/05/how-to-begin-a-personal-archiving-project/) 
     - [Personal Digital Archiving](https://guides.library.barnard.edu/preserveyourwork/personaldigitalarchiving) 
     - [Personal Archiving](https://digitalpreservation.gov/personalarchiving/) 
-    
+
+
+# Moving Ahead    
 Sketch out a plan for how you might like to proceed with this project. Consider the following:
 - How much time and energy, and how many resources, can I put towards this work?
 - What questions am I most interested in addressing through my writing? 
